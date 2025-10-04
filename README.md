@@ -258,7 +258,5 @@ python model_conversion.py --input model.pkl --output model.onnx
 - **Monitoring System:** Comprehensive ML monitoring
 - **Best Practices Guide:** Production deployment guidelines
 
-## Contact
-
 ---
 *Bridging the gap between research and production*
