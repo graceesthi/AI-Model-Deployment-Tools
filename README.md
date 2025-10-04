@@ -1,10 +1,5 @@
 # AI Model Deployment and Maintenance Tools
 
-**Author:** Grâce Esther DONG  
-**Academic Program:** 4th Year Engineering - AI Specialization  
-**Institution:** Aivancity School for Technology, Business & Society  
-**Academic Year:** 2024-2025
-
 ## Project Overview
 
 This repository contains a comprehensive collection of tools and frameworks for deploying, maintaining, and optimizing AI models in production environments. It covers containerization, web deployment, model optimization, and MLOps best practices.
@@ -264,8 +259,6 @@ python model_conversion.py --input model.pkl --output model.onnx
 - **Best Practices Guide:** Production deployment guidelines
 
 ## Contact
-
-**Grâce Esther DONG**
 
 ---
 *Bridging the gap between research and production*
