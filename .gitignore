@@ -5,6 +5,10 @@
 *.rar
 *.7z
 
+# Course materials and PDFs
+*.pdf
+*.pptx
+
 # Large datasets
 datasets/
 data/
