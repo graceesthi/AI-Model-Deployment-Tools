@@ -1,0 +1,45 @@
+# Large files and downloads
+*.fdmdownload
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# Large datasets
+datasets/
+data/
+*.npz
+*.h5
+
+# Docker volumes and temp files
+**/tmp/
+**/temp/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
